@@ -1,6 +1,13 @@
+## React Redux App
+
+
+ ### ` Preview of the application ` 
+   <img width=500 src="./Screenshot from 2019-06-26 17-17-14.png" />
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
